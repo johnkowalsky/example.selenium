@@ -1,0 +1,13 @@
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\selenium.orderedtest
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Luxoft.Selenium.Tests.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Luxoft.Selenium.Tests.pdb
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Luxoft.Selenium.Framework.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Luxoft.Selenium.Framework.pdb
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.xml
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\Luxoft.Selenium.Tests.csprojResolveAssemblyReference.cache
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\Luxoft.Selenium.Tests.dll
+C:\Users\frmj\Documents\luxoft\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\Luxoft.Selenium.Tests.pdb

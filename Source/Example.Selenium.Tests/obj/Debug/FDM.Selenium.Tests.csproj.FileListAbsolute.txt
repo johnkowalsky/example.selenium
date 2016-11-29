@@ -1,0 +1,16 @@
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\FDM.Selenium.Tests.csprojResolveAssemblyReference.cache
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\selenium.orderedtest
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\FDM.Selenium.Tests.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\FDM.Selenium.Tests.pdb
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\FDM.Selenium.Framework.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\FDM.Selenium.Framework.pdb
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.xml
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\FDM.Selenium.Tests.dll
+C:\Users\frmj\Documents\Viessmann.FDM.Selenium\Source\Viessmann.FDM.Selenium.Tests\obj\Debug\FDM.Selenium.Tests.pdb
+c:\Users\frmj\Documents\Viessmann.FDM.Selenium\BuildOutput\selenium.orderedtest
+c:\Users\frmj\Documents\Viessmann.FDM.Selenium\BuildOutput\FDM.Selenium.Tests.dll
+c:\Users\frmj\Documents\Viessmann.FDM.Selenium\BuildOutput\FDM.Selenium.Tests.pdb

@@ -1,0 +1,9 @@
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\University.Selenium.Framework.dll
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\University.Selenium.Framework.pdb
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\WebDriver.dll
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\WebDriver.xml
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\obj\Debug\University.Selenium.Framework.csprojResolveAssemblyReference.cache
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\obj\Debug\University.Selenium.Framework.dll
+C:\Users\frmj\Documents\University.Selenium\Source\Viessmann.FDM.Selenium.Tests.Framework\obj\Debug\University.Selenium.Framework.pdb

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="RunCIBuild"
+         xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <MsTestExePath>c:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe</MsTestExePath>
+        <DoubleQuotes>"</DoubleQuotes>
+        <OutputPath>$(MSBuildProjectDirectory)\..\BuildOutput</OutputPath>
+        <MsTestResultPath>$(OutputPath)\..\MyResults.trx</MsTestResultPath>
+        <Configuration>Debug</Configuration>
+    </PropertyGroup>
+
+    <Target Name="RunCIBuild">
+        <CallTarget Targets="CompileTests"/>
+        <CallTarget Targets="test"/>
+    </Target>
+
+    <Target Name="CompileTests" DependsOnTargets="CompileFramework">
+        
+		<MSBuild Projects="$(MSBuildProjectDirectory)\..\Source\Example.Selenium.Tests\Example.Selenium.Tests.csproj"
+                 Properties="OutDir=$(OutputPath); Configuration=$(Configuration);"
+				 Targets="Rebuild" />
+		        
+    </Target>
+
+	<Target Name="CompileFramework">
+	<MSBuild Projects="$(MSBuildProjectDirectory)\..\Source\Example.Selenium.Framework\Example.Selenium.Framework.csproj"
+                 Properties="OutDir=$(OutputPath);
+				 Configuration=$(Configuration);"
+                 Targets="Rebuild" />
+	</Target>
+	
+<Target Name="test" DependsOnTargets="CompileTests">
+        <ItemGroup>
+            <TestAssemblies Include="$(MSBuildProjectDirectory)\..\BuildOutput\Example.Selenium.Tests.dll"/>
+			
+			</ItemGroup>
+       <RemoveDir Directories="..\TestResults" Condition="Exists('..\TestResults')" />
+   <MakeDir Directories="..\TestResults"/>
+   <PropertyGroup>
+       <MsTestCommand>"$(MsTestExePath)" /testcontainer:$(OutputPath)\Example.Selenium.orderedtest /resultsfile:"..\TestResults\Results.trx" /runconfig:"$(MSBuildProjectDirectory)\buildSelenium.runsettings""</MsTestCommand>
+    </PropertyGroup>
+
+   <Exec Command="$(MsTestCommand)" ContinueOnError="true" />
+    </Target>
+
+</Project>

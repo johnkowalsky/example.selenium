@@ -1,0 +1,2 @@
+D:\Dropbox\workspace\fdm-selenium\FDM.Selenium.Tests\FDM.Selenium.Tests\obj\Release\FDM.Selenium.Tests.csprojResolveAssemblyReference.cache
+C:\Users\frmj\Documents\viessmann_fdm\Source\Viessmann.FDM.Selenium.Tests\fdm.selenium.tests\obj\Release\FDM.Selenium.Tests.csprojResolveAssemblyReference.cache

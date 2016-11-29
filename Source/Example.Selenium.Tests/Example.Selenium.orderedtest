@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="Example.Selenium" storage="c:\users\frmj\documents\example.selenium\source\example.selenium.tests\example.selenium.orderedtest" id="6f65c58b-7e21-45ab-afaa-f6737f4cc255" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="162f4e5b-7ade-d367-bb75-9f2d7a77921d" name="LoadExampleShouldSuccess" storage="bin\debug\example.selenium.tests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
